@@ -43,7 +43,7 @@ This is a gss wa bot by Ansh Sharma
 
 ---
 ### 1. FORK THIS REPO
-<a href='https://github.com/gssbotwa/Gssbotwa2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Ansh-Zubair/ANSH-GSS-WA-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 
 ### 2. GET SESSION VIA PAIR CODE
@@ -139,7 +139,7 @@ mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=maj
 ***Tap On Logo To Subscribe MY YouTube Channel***
 </p>
  <p align="left">
-  <a href="https://www.youtube.com/@SinghaniyaTech0744?sub_confirmation=1">
+  <a href="https://www.youtube.com/@anshsharma1740?sub_confirmation=1">
     <img alt=Support height="70" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
   </p>
     
